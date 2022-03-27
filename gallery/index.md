@@ -6,5 +6,5 @@
 
 
 <a href="http://example.com/" target="_blank">
-<img src="https://github.com/Illymor/illymor.github.io/blob/main/gallery/2022.03-we-la-ferte.jpg" width="200">
+<img src="https://github.com/Illymor/illymor.github.io/blob/main/docs/assets/2022.03-we-la-ferte.jpg" width="200">
 </a>
