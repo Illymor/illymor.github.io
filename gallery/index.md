@@ -5,6 +5,9 @@ Version temporaire, ne pas partager !
 Week-end à La Ferté 03.2022<br>
 [<img src="/docs/assets/2022-03-welaferte.jpg" width="200">](https://www.amazon.fr/photos/share/NfMM6mF8G61SDSJeldRC0FVoSApxJkUeJslXgMPr890)
 
+Raphou, Année 2021<br>
+[<img src="/docs/assets/2021-raphou.JPG" width="200">](https://www.amazon.fr/photos/share/BvIfkAipUbEsMb4sbglS3pL2MyxsaVtJDkck05TcI5a)
+
 Noel 12.2021<br>
 [<img src="/docs/assets/2021-12-noel.JPG" width="200">](https://www.amazon.fr/photos/share/cjP5zpRgwL5WGYwfh6KxEOIvoyXf9K6hsQ0rtXcO8NP)
 
@@ -22,3 +25,15 @@ Week-end à La Souterraine 05.2021<br>
 
 Groix 02.2021<br>
 [<img src="/docs/assets/2021.02-groix.jpg" width="200">](https://www.amazon.fr/photos/share/6Qq4SvpkUU9bbdqFJNBUS97GQjt2jCG9kODglRElyDh)
+
+Raphou, Année 2020<br>
+[<img src="/docs/assets/2020-raphou.jpg" width="200">](https://www.amazon.fr/photos/share/sxSeDtTLhyHJQfeNs0K4JT2BpzufqIRHo4KCz4Qdmkh)
+
+Noel 12.2020<br>
+[<img src="/docs/assets/2020-12-noel.JPG" width="200">](https://www.amazon.fr/photos/share/wqR4rQ1s34nE10odSnslEShbwCDXdvtIKVYx3wTvDVM)
+
+Groix 08.2020<br>
+[<img src="/docs/assets/2020-08-groix.JPG" width="200">](https://www.amazon.fr/photos/share/T0Wp555JCkfXX7c3jHTDIFwFaxs3tH7U7pEdlD6DGhJ)
+
+Raphou, Année 2019<br>
+[<img src="/docs/assets/2019-raphou.jpg" width="200">](https://www.amazon.fr/photos/share/7KDntZaJ94josnTlyOyWwbZ0jhVNFto034BdoYJhhoW)
